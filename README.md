@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Polarking8
-- 👀 I’m interested in Aerospace Engineering and programming.
-- 🌱 I’m currently learning Computer Science and Physics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Email me at polarking7056@gmail.com
+- 👀 I’m interested in Aerospace Engineering
+- 🌱 I’m currently learning Mechanical Engineering
+- 📫 How to reach me: Email me at Polarking7056@gmail.com
 
 <!---
 Polarking8/Polarking8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
